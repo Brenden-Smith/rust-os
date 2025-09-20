@@ -7,4 +7,4 @@ Sourced from: https://os.phil-opp.com
 
 ## Progress
 
-- [ ] [A Freestanding Rust Binary](https://os.phil-opp.com/freestanding-rust-binary/)
+- [x] [A Freestanding Rust Binary](https://os.phil-opp.com/freestanding-rust-binary/)
